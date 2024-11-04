@@ -1,2 +1,4 @@
-# owp_3_nedelja
-Gradivo sa predavanja u 3. nedelji 4. semestra iz predmeta OWP na Mašinskom fakultetu
+# owp_3_work_week
+
+Some things we did at 3rd week of fourth semester. 
+
